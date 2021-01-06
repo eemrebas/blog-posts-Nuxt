@@ -1,4 +1,8 @@
+![homepage](https://user-images.githubusercontent.com/26345498/103766172-6bf78280-502f-11eb-887f-874f96f4549e.png)
 
+![admin](https://user-images.githubusercontent.com/26345498/103766183-70bc3680-502f-11eb-8288-32370dcddd25.png)
+
+![newPost](https://user-images.githubusercontent.com/26345498/103766193-73b72700-502f-11eb-82e9-f2f22d5d6f85.png)
 
 ## Build Setup
 
