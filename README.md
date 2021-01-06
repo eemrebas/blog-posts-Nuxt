@@ -4,6 +4,11 @@
 
 ![newPost](https://user-images.githubusercontent.com/26345498/103766193-73b72700-502f-11eb-82e9-f2f22d5d6f85.png)
 
+## Features
+- Nuxt.js + Vuex + Axios
+- Bootstrap 4
+- Firebase
+
 ## Build Setup
 
 ```bash
